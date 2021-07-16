@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /
+allow: index.php
+allow: robots.txt
+allow: webroot/
